@@ -1,4 +1,4 @@
-int ledPin = 13;
+int ledPin = 13; //светодиод
 int switchPin = 7;
 void setup()
 {
