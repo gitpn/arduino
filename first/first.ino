@@ -24,6 +24,7 @@ Serial.println("Not connected");
 
 }
 
+
 //функция моргания светодиода
 void flashLed(int delayPeriod)
 {
